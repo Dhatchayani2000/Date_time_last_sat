@@ -2,9 +2,13 @@
 The provided code includes functions to determine the last Saturday of a given month and calculate the total number of Saturdays in that month. These functions utilize the datetime module to work with date and time-related operations in Python.
 
 ##Table of Contents
+
  Introduction
+
  Usage
+ 
  Functions
+ 
  Example
 
 ##Introduction
